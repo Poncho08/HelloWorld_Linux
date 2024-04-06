@@ -45,4 +45,4 @@ gcc hola_mundo.c -o hola_mundo
 ./hola_mundo
 
 
-![Captura de pantalla](Screenshot 2024-04-05 193038.png)
+![Captura de pantalla](`assets/Screenshot 2024-04-05 193038.png)
