@@ -43,3 +43,6 @@ gcc hola_mundo.c -o hola_mundo
 
 - Ahora puedes ejecutar el programa escribiendo: 
 ./hola_mundo
+
+
+![Captura de pantalla](Screenshot 2024-04-05 193038.png)
